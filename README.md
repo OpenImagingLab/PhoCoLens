@@ -154,6 +154,7 @@ After Stage 1 training, generate inputs for Stage 2:
 
 ```bash
 python val.py with ours_meas_1280_1408_decoded_sim_svd -p
+python val.py with ours_meas_1280_1408_decoded_sim_svd infer_train -p
 cd ..
 python tools/data_process.py
 ```

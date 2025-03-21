@@ -10,8 +10,8 @@ import numpy as np
 import cv2
 from tqdm import tqdm
 tools_dir = os.path.dirname(os.path.abspath(__file__))
-svd_dir = os.path.join(os.path.dirname(tools_dir), 'NullSpaceDiff')
-nullspace_dir = os.path.join(os.path.dirname(tools_dir), 'SVDeconv')
+svd_dir = os.path.join(os.path.dirname(tools_dir), 'SVDeconv')
+nullspace_dir = os.path.join(os.path.dirname(tools_dir), 'NullSpaceDiff')
 dataset = "phlatcam"
 
 exp_name = "fft-svd-1280-1408-meas-decoded_sim_spatial_weight"
