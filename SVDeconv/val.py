@@ -74,7 +74,7 @@ def main(_run):
     # Model
     G, FFT = get_model.model(args)
 
-    ckpt_dir = Path("ckpts_phlatcam") / args.exp_name
+    ckpt_dir = Path("ckpts/phlatcam") / args.exp_name
     model_gen_path = ckpt_dir / "model_latest.pth"
     model_fft_path = ckpt_dir / "FFT_latest.pth"
     print("model_gen_path.exists()", model_gen_path.exists(), "model_fft_path.exists()", model_fft_path.exists())

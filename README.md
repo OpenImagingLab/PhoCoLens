@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.17996-b31b1b.svg)](https://arxiv.org/abs/2409.17996)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://phocolens.github.io/)
-[![Page Views](https://img.shields.io/badge/Page%20Views-1000-blue?link=https://github.com/OpenImagingLab/PhoCoLens)]((https://github.com/OpenImagingLab/PhoCoLens))
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OpenImagingLab/PhoCoLens&title=Visitors)
 
 
 ![Teaser](Docs/lensless_teaser.jpg)
