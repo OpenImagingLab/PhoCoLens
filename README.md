@@ -6,7 +6,7 @@
 [![Page Views](https://img.shields.io/badge/Page%20Views-1000-blue?link=https://github.com/OpenImagingLab/PhoCoLens)]((https://github.com/OpenImagingLab/PhoCoLens))
 
 
-![Teaser](docs/lensless_teaser.jpg)
+![Teaser](Docs/lensless_teaser.jpg)
 
 Official PyTorch implementation of the NeurIPS 2024 paper "PhocoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging"
 
@@ -39,7 +39,7 @@ PhocoLens employs a novel two-stage reconstruction pipeline:
 
 3. **Null Space Content Recovery (NullSpaceDiff)**: The second stage uses conditional diffusion models to recover lost details while maintaining consistency with first-stage output.
 
-![Method](docs/overview.png)
+![Method](Docs/overview.png)
 
 ## 🚀 Getting Started
 
