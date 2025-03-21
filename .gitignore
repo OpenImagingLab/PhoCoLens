@@ -1,0 +1,13 @@
+StableSR/*
+*/data/*
+*ckpts*
+NullSpaceDiff/data_process/*
+NullSpaceDiff/logs/*
+NullSpaceDiff/scripts_bk/*
+__pycache__/*
+*/__pycache__/*
+SVDeconv/output*
+SVDeconv/runs*
+SVDeconv/data/*
+*.pyc
+*/logs
