@@ -54,7 +54,7 @@ PhocoLens employs a novel two-stage reconstruction pipeline:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PhoCoLens.git
+git clone https://github.com/OpenImagingLab/PhoCoLens.git
 cd PhoCoLens
 
 # Create conda environment
